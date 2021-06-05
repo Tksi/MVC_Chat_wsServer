@@ -1,0 +1,15 @@
+{
+  "name": "MVC_chat_wsServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node ./index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.6"
+  }
+}
