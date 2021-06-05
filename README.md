@@ -2,6 +2,11 @@
 
 WebSocket server for MVC_Chat
 
+Usage
+```bash
+npm start
+```
+
 ## 送信時
 WebSocketサーバへ送るJSONの形式
 ```js
