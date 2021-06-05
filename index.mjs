@@ -8,7 +8,7 @@ const color = {
   reset: '\u001b[0m',
 };
 
-const port = 8080;
+const port = 8888;
 const wss = new WebSocket.Server({ port });
 console.debug(`WebSocker Server Listen on ${port}`);
 
