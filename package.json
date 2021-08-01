@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.mjs",
   "scripts": {
-    "start": "node ./index.mjs"
+    "start": "node ./index.mjs",
+    "dev": "nodemon ./index.mjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ws": "^7.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
